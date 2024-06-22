@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "readme": "c",
+        "string.h": "c"
+    }
+}
